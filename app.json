@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "my-calculate",
+    "slug": "my-calculate",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
